@@ -9,7 +9,6 @@ React Native, TypeScript, React, Swift/Objective-C, Kotlin/Java, Node. Some Rail
 ## Building now
 
 - [cardvault](https://github.com/Besermenji/cardvault): offline encrypted vault for the M5Stack Cardputer ADV
-- FM-1 groovebox firmware
 - [tr8s-studio](https://github.com/Besermenji/tr8s-studio): tooling for the Roland TR-8S
 
 ## Links
